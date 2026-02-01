@@ -1,34 +1,50 @@
 # HugByte
 
-HugByte er en samling små, selvstendige prosjekter bygget for én enkel idé:
-
 > Lokal kontroll slår kompleksitet.
 
-Ingen SaaS.
-Ingen tracking.
-Ingen “plattform”.
+---
 
-Dette repoet inneholder **korte oversikter** over hvert prosjekt:
-– hva det er
-– hvordan det er bygget
-– hvilke prinsipper som ligger under
+HugByte er en samling små, selvstendige prosjekter.
 
-Ingen kode ligger her.
-Dette er et offentlig ankerpunkt, ikke et utvikler-repo.
+Ingen SaaS. Ingen tracking. Ingen "plattform".
+
+---
 
 ## Prosjekter
 
-- [BareENK](./bareenk.md)
-- [BareArkiv](./barearkiv.md)
-- [Nettspor](./nettspor.md)
-- [ENKoppslag](./enkoppslag.md)
+### Verktøy for ENK
+
+| Prosjekt | Beskrivelse |
+|----------|-------------|
+| [BareENK](./bareenk.md) | Lokalt bokføringsverktøy |
+| [ENKoppslag](./enkoppslag.md) | Oppslagsverk for enkeltpersonforetak |
+| [ID1.no](./id1.md) | ENK-identitetsbevis-generator |
+
+### Det uavhengige nettet
+
+| Prosjekt | Beskrivelse |
+|----------|-------------|
+| [Nettspor](./nettspor.md) | Stille webring |
+| [FM1.no](./fm1.md) | Retro nettradio med GenX-sjel |
+
+### For utviklere
+
+| Prosjekt | Beskrivelse |
+|----------|-------------|
+| [WP Overtakelse](./wpovertakelse.md) | Ryddig overlevering av WordPress-sider |
+
+---
 
 ## Prinsipper
 
-- Local-first
-- Ingen bakend-avhengighet der det kan unngås
-- Enkle formater (HTML, JS, JSON, Markdown)
-- Brukeren eier egne data
-- Bygget for å fungere i hverdagen, ikke for å imponere
+```
+├── Local-first
+├── Ingen backend-avhengighet der det kan unngås
+├── Enkle formater (HTML, JS, JSON, Markdown)
+├── Brukeren eier egne data
+└── Bygget for å fungere i hverdagen, ikke for å imponere
+```
 
-Dette repoet er ment å leses, ikke vedlikeholdes aktivt.
+---
+
+<sub>Dette repoet er ment å leses, ikke vedlikeholdes aktivt.</sub>
