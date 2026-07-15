@@ -1,59 +1,34 @@
 # Nettspor
 
-> En stille webring
+> Et lite spor gjennom det uavhengige nettet.
+
+Nettspor er en moderne webring for selvstendige nettsteder.
+
+Ikke et sosialt nettverk. Ikke en ny feed. Bare en enkel måte å gå videre fra ett ekte nettsted til et annet uten at en algoritme står i døra og krever oppmerksomhet.
+
+## Ideen
+
+Det åpne nettet blir bedre når nettsteder faktisk peker til hverandre.
+
+Nettspor knytter sammen små, uavhengige prosjekter gjennom enkel navigasjon og et minimum av teknisk styr.
+
+## Prinsipper
+
+- ingen brukerkontoer
+- ingen profiler
+- ingen endeløs feed
+- ingen rangering etter popularitet
+- enkelt å bli med
+- enkelt å forlate
+
+Internett trenger ikke alltid å bli større.
+
+Av og til holder det å lage en liten sti mellom gode steder.
+
+## Status
+
+Nettspor utvikles som et selvstendig HugByte-prosjekt.
 
 ---
 
-Ikke et sosialt nettverk.
-Ikke en plattform.
-Ikke en feed.
-
-**Bare lenker mellom nettsteder som faktisk eksisterer.**
-
----
-
-## Hva det er
-
-| | |
-|---|---|
-| **Type** | Kuratert nettverk |
-| **Konsept** | Klassisk webring |
-| **Implementasjon** | Moderne, minimalistisk |
-| **Kontoer** | Ingen |
-| **Profiler** | Ingen |
-| **Algoritmer** | Ingen |
-
----
-
-## Hvordan det er bygget
-
-```
-Redirect-endepunkter
-├── Statisk data
-├── Minimal JavaScript
-└── Valgfri integrasjon
-    ├── HTML
-    ├── JS
-    └── Plugin
-```
-
-Nettspor skal være lett å delta i.
-Og lett å forlate.
-
----
-
-## Filosofi
-
-> Internett var bedre da det besto av rom, ikke plattformer.
-
-Nettspor prøver ikke å vinne tilbake nettet.
-Bare å lage et lite, brukbart hjørne av det.
-
----
-
-<details>
-<summary><strong>Relaterte prosjekter</strong></summary>
-
-- [FM1.no](./fm1.md) — Retro nettradio (del av det uavhengige nettet)
-
-</details>
+[FM1.no](./fm1.md) · [HugByte.no](https://hugbyte.no/)

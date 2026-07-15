@@ -1,58 +1,27 @@
 # BareENK
 
-> Lokalt bokføringsverktøy for enkeltpersonforetak
+> En enklere start for deg som driver alene.
+
+BareENK er et HugByte-prosjekt for enkeltpersonforetak som ønsker kontroll uten å drukne i systemer, abonnementer og unødvendig fagspråk.
+
+Prosjektet tar utgangspunkt i en enkel virkelighet: De fleste små næringsdrivende trenger ikke en digital finansavdeling. De trenger å forstå hva som må gjøres, når det må gjøres og hvor tallene kommer fra.
+
+## Retningen
+
+- forståelige forklaringer
+- praktiske maler og arbeidsverktøy
+- minst mulig låsing til bestemte leverandører
+- kontroll over egne data
+- færre overraskelser ved skatt, avgifter og rapportering
+
+BareENK skal ikke gjøre alt.
+
+Det skal gjøre det lettere å komme i gang, holde oversikt og unngå de vanligste smellene.
+
+## Status
+
+Prosjektet utvikles trinnvis som en del av HugBytes verktøy for små virksomheter.
 
 ---
 
-**BareENK** er bygget for folk som:
-- vil forstå tallene sine
-- ikke vil leie programvare resten av livet
-- vil kunne ta med seg dataene sine uten eksport-sirkus
-
----
-
-## Hva det er
-
-| | |
-|---|---|
-| **Type** | Nettleserbasert verktøy |
-| **Kjører** | Lokalt i din nettleser |
-| **Konto** | Ingen |
-| **Backend** | Ingen |
-| **Skyavhengighet** | Ingen |
-
-BareENK er laget for **kontroll**, ikke automatiseringsmagi.
-
----
-
-## Hvordan det er bygget
-
-```
-Vanilla HTML / JavaScript
-├── Lokal lagring
-├── Eksplisitte datastrukturer
-├── Ingen tredjeparts SDKer
-└── Ingen skjulte prosesser
-```
-
-Alt skjer åpent i brukerens miljø.
-
----
-
-## Filosofi
-
-> BareENK prøver ikke å være "smart".
-> Det prøver å være **pålitelig**.
-
-Det gjør få ting.
-Men de samme tingene hver gang.
-
----
-
-<details>
-<summary><strong>Relaterte prosjekter</strong></summary>
-
-- [ENKoppslag](./enkoppslag.md) — Oppslagsverk for ENK
-- [ID1.no](./id1.md) — ENK-identitetsbevis
-
-</details>
+[ENKoppslag](./enkoppslag.md) · [ID1.no](./id1.md) · [HugByte.no](https://hugbyte.no/)

@@ -1,68 +1,23 @@
 # ID1.no
 
-> ENK-identitetsbevis på sekunder
+> En enkel identitetsside for små virksomheter.
+
+[Besøk ID1.no](https://id1.no/)
+
+ID1 er en liten, statisk nettside bygget rundt tanken om at en virksomhet bør kunne presentere hvem den er uten en tung nettløsning, innlogging eller månedlig regning.
+
+Prosjektet er bevisst enkelt: én tydelig inngang, nødvendig informasjon og minst mulig dill.
+
+## Prinsipper
+
+- statisk og rask
+- enkelt å forstå
+- ingen konto
+- ingen unødvendig datainnsamling
+- laget for å kunne stå lenge uten stadig vedlikehold
+
+ID1 er også et eksempel på HugBytes set-and-forget-prosjekter: små nettsteder som løser en avgrenset oppgave og ikke prøver å vokse opp til å bli en plattform.
 
 ---
 
-**"Ja, jeg driver faktisk firma."**
-
-Ingen graving etter organisasjonsnummer.
-Ingen forklaring av hva ENK egentlig er.
-Bare et bevis.
-
----
-
-## Hva det er
-
-| | |
-|---|---|
-| **Type** | Identitetsbevis-generator |
-| **Datakilde** | Brønnøysundregistrene (via ENKoppslag) |
-| **Output** | Offisiell-lignende bekreftelse |
-| **Registrering** | Ingen |
-| **Kostnad** | Ingen |
-
-Et praktisk, anti-byråkratisk verktøy for ENK-eiere som er lei av å bevise at de eksisterer.
-
----
-
-## Hvordan det fungerer
-
-```
-┌─────────────────────────────────────┐
-│  1. Skriv inn org.nummer eller navn │
-│              ↓                      │
-│  2. Data hentes fra registeret      │
-│              ↓                      │
-│  3. Generer bevis                   │
-│              ↓                      │
-│  4. Last ned / del / print          │
-└─────────────────────────────────────┘
-```
-
----
-
-## Bruksområder
-
-- Bekrefte bedriftsstatus til kunder
-- Dokumentasjon til leverandører
-- Enkel referanse ved fakturering
-- Slippe å forklare ENK for n-te gang
-
----
-
-## Filosofi
-
-> Byråkrati løses best med mindre byråkrati.
-
-ID1 tar det offentlige og gjør det tilgjengelig — uten skjemaer, uten ventetid, uten forklaring.
-
----
-
-<details>
-<summary><strong>Relaterte prosjekter</strong></summary>
-
-- [ENKoppslag](./enkoppslag.md) — Datakilden bak ID1
-- [BareENK](./bareenk.md) — Lokalt bokføringsverktøy
-
-</details>
+[ID1.no](https://id1.no/) · [ENKoppslag](./enkoppslag.md) · [HugByte.no](https://hugbyte.no/)

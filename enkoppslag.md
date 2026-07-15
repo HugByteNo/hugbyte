@@ -1,57 +1,33 @@
 # ENKoppslag
 
-> Oppslagsverk for enkeltpersonforetak i Norge
+> Praktiske svar for deg som driver enkeltpersonforetak.
 
----
+[Besøk ENKoppslag](https://enkoppslag.no/)
 
-Ikke en blogg.
-Ikke en rådgivningstjeneste.
-Ikke en salgsflate.
+ENKoppslag er et norsk oppslagsverk for spørsmål som dukker opp når du starter, driver eller avslutter et enkeltpersonforetak.
 
-**Bare svar på faktiske spørsmål.**
+Ingen motivasjonstaler. Ingen salgstrakt forkledd som veiledning. Bare forklaringer som skal være mulig å forstå og bruke.
 
----
+## Temaer
 
-## Hva det er
-
-| | |
-|---|---|
-| **Type** | Statisk oppslagsverk |
-| **Format** | Spørsmål → svar |
-| **Stil** | Kort, presist, etterprøvbart |
-| **Mening** | Ingen — bare rammer |
-
-Bygget for folk som vil gjøre ting riktig, uten å drukne i byråkratspråk.
-
----
+- starte enkeltpersonforetak
+- skatt og merverdiavgift
+- regnskap, fradrag og fakturering
+- sykepenger og andre rettigheter
+- drift, endringer og avslutning
 
 ## Hvordan det er bygget
 
-```
-Statisk nettsted
-├── Enkle innholdstyper
-├── Ingen konto
-├── Ingen sporing
-└── Ingen personalisering
-```
+ENKoppslag er et statisk nettsted med tydelige artikler, enkel navigasjon og minst mulig teknisk staffasje.
 
-Innholdet skal fungere også om ti år.
+Ingen konto er nødvendig. Du skal kunne finne svaret, gjøre jobben og gå videre med dagen.
 
----
+## Grunntanken
 
-## Filosofi
+Offentlig informasjon finnes som regel allerede.
 
-> De fleste trenger ikke mer informasjon.
-> De trenger mindre støy.
-
-ENKoppslag er bygget for ro, ikke engasjement.
+Problemet er at den ofte ligger spredt, pakket inn i fagspråk eller skrevet for folk som kjenner systemet fra før. ENKoppslag prøver å gjøre avstanden mellom spørsmål og svar litt kortere.
 
 ---
 
-<details>
-<summary><strong>Relaterte prosjekter</strong></summary>
-
-- [BareENK](./bareenk.md) — Lokalt bokføringsverktøy
-- [ID1.no](./id1.md) — ENK-identitetsbevis (bruker ENKoppslag-data)
-
-</details>
+[ENKoppslag.no](https://enkoppslag.no/) · [BareENK](./bareenk.md) · [ID1.no](./id1.md)

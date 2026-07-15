@@ -1,79 +1,30 @@
 # FM1.no
 
-> Retro nettradio med GenX-sjel
+> Fem små nettradiokanaler. Ingen programleder som roper over introen.
 
----
+[Besøk FM1.no](https://fm1.no/)
 
-```
- ┌────────────────────────────────────────┐
- │  ╔═══════════════════════════════════╗ │
- │  ║  FM  ▮▮▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯▯  MHz  ║ │
- │  ║      88 ──────●────────── 108     ║ │
- │  ╚═══════════════════════════════════╝ │
- │         ◉ VOL        ◉ TUNE           │
- └────────────────────────────────────────┘
-```
+FM1 er en enkel, statisk nettradioside med fem kanaler laget for ulike arbeidsdager og stemninger.
 
----
+Prosjektet henter fram noe av følelsen fra radio før alt ble konkurranser, kjendiser og desperate forsøk på å holde deg engasjert hvert tredje sekund.
 
-En webbasert radio med vintage-estetikk fra tidlig 2000-talls norsk nettkultur.
+## På FM1 finner du
 
-**Nettby-æraen lever.**
+- fem tydelige kanaler
+- enkel avspilling
+- korte tips og forklaringer
+- ingen konto
+- ingen feed
+- ingen algoritme som prøver å oppdra musikksmaken din
 
----
-
-## Hva det er
-
-| | |
-|---|---|
-| **Type** | Webbasert radiointerface |
-| **Estetikk** | Retro / Nostalgisk |
-| **Æra** | Tidlig 2000-tall |
-| **Funksjon** | Visuell nostalgi + (mulig) lyd |
-
----
-
-## Konsept
-
-```
-Vintage interface
-├── Analoge knotter
-├── Frekvensskala
-├── Kanal-presets
-└── Glødelampe-indikatorer (kanskje)
-
-Mulig innhold
-├── Curated playlister
-├── Podcast-feeds
-├── Ambient lyd
-└── Ren estetikk-verdi
-```
-
----
+FM1 er laget som en liten set-and-forget-side. Den skal laste raskt, spille det du valgte og ellers holde kjeft.
 
 ## Hvorfor
 
-Moderne design er flatt, generisk og sjelloløst.
+Noen ganger trenger du ikke mer innhold.
 
-FM1 er det motsatte:
-- **Distinktiv** — skiller seg ut
-- **Personlighetsdrevet** — har en stemme
-- **Nostalgisk** — feirer det analoge
+Du trenger bare noe brukbart i bakgrunnen mens du arbeider.
 
 ---
 
-## Filosofi
-
-> Noen ganger er det viktigste ikke funksjon,
-> men følelse.
-
-FM1 er en hyllest til analog radioens gullalder — og til nettet da det fortsatt hadde personlighet.
-
----
-
-<details>
-<summary><strong>Relaterte prosjekter</strong></summary>
-
-- [Nettspor](./nettspor.md) — Webring for uavhengige nettsteder
-
-</details>
+[FM1.no](https://fm1.no/) · [Nettspor](./nettspor.md) · [HugByte.no](https://hugbyte.no/)
