@@ -1,27 +1,21 @@
 # HugByte AI
 
-> AI i arbeidsbua. Mindre hype, mer ferdig arbeid.
+> **Practical AI. Without the circus.**
 
-[Besøk HugByte AI](https://hugbyte.no/ai/)
+**[Read HugByte AI](https://hugbyte.no/ai/)**
 
-HugByte AI handler om praktisk bruk av kunstig intelligens.
+HugByte AI is the practical corner of the workshop: writing, coding, research, small tools, and workflows where AI actually removes work instead of inventing more of it.
 
-Ikke fremtidsprofetier, konsulentspråk eller ti nye systemer oppå det som allerede virker. Målet er å bruke AI der den faktisk gjør nytte: til å skrive, bygge, undersøke, forbedre og ferdigstille konkret arbeid.
+Not a place for breathless predictions or a new dashboard every Tuesday.
 
-## Dette finner du her
+## The guiding rules
 
-- praktiske arbeidsmetoder
-- AI til tekst, kode, lyd, bilder og video
-- ærlige tester av verktøy
-- arbeidsflyter som reduserer knot
-- erfaringer fra faktiske HugByte-prosjekter
+- Start with the job, not the model.
+- Use AI to find gaps, improve output, and get deliverables across the line.
+- Test the workflow before automating it.
+- Keep a human responsible for the result.
+- Don't confuse a complicated stack with a useful one.
 
-## Grunntanken
+The point isn't to *use more AI*. It's to spend less time doing things that don't need to be done by hand.
 
-AI er et verktøy, ikke en religion.
-
-Det interessante er ikke hvor imponerende teknologien høres ut. Det interessante er om den hjelper deg å få gjort noe før kaffekoppen blir kald.
-
----
-
-[HugByte.no](https://hugbyte.no/) · [HugByte Music](./hugbyte-music.md) · [Nordic Tales](./nordic-tales.md)
+**[Practical AI](https://hugbyte.no/ai/)** · **[HugByte](https://hugbyte.no/)**

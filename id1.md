@@ -1,23 +1,22 @@
-# ID1.no
+# ID Én
 
-> En enkel identitetsside for små virksomheter.
+> **A tiny identity ritual for people going independent.**
 
-[Besøk ID1.no](https://id1.no/)
+**[Try ID Én](https://id1.no/)**
 
-ID1 er en liten, statisk nettside bygget rundt tanken om at en virksomhet bør kunne presentere hvem den er uten en tung nettløsning, innlogging eller månedlig regning.
+ID Én is a Norwegian mini-tool for new sole proprietors. Enter a few basic details, generate a **symbolic identity certificate**, and download a PDF.
 
-Prosjektet er bevisst enkelt: én tydelig inngang, nødvendig informasjon og minst mulig dill.
+It's part practical starter exercise, part small celebration of deciding to work for yourself.
 
-## Prinsipper
+## What you'll find
 
-- statisk og rask
-- enkelt å forstå
-- ingen konto
-- ingen unødvendig datainnsamling
-- laget for å kunne stå lenge uten stadig vedlikehold
+- A generator for a symbolic certificate with your business details.
+- A downloadable PDF.
+- A simple first-30-days checklist for getting established.
+- Tips on owning your web presence and keeping local records.
 
-ID1 er også et eksempel på HugBytes set-and-forget-prosjekter: små nettsteder som løser en avgrenset oppgave og ikke prøver å vokse opp til å bli en plattform.
+**Important:** This is **not** an official identity document and does not replace registration, public records, or legal identification.
 
----
+A small tool for a small milestone. No enterprise identity platform required.
 
-[ID1.no](https://id1.no/) · [ENKoppslag](./enkoppslag.md) · [HugByte.no](https://hugbyte.no/)
+**[ID1.no](https://id1.no/)** · **[HugByte](https://hugbyte.no/)**

@@ -1,23 +1,22 @@
 # Nordic Tales
 
-> Gamle nordiske fortellinger, gitt nytt liv.
+> **Old stories. Loud again.**
 
-[Besøk Nordic Tales](https://hugbyte.no/nordic/)
+**[Enter Nordic Tales](https://hugbyte.no/nordic/)**
 
-Nordic Tales presenterer eventyr, sagn og underlige fortellinger fra Norden gjennom videoer, illustrasjoner og digitale bøker.
+Nordic Tales gives Northern folklore, legends, and original stories new forms through writing, music, illustration, video, and digital editions.
 
-Historiene får moderne produksjon, men beholder det som gjorde dem verdt å fortelle i utgangspunktet: mørket, humoren, naturen, trollene og menneskene som stort sett burde visst bedre.
+Not a museum behind glass. The stories are supposed to feel alive, strange, funny, and occasionally uncomfortable — just as good stories should.
 
-## Innhold
+## What lives here
 
-- norske og nordiske folkeeventyr
-- engelskspråklige fortellinger
-- illustrerte digitale bøker
-- videoer og fortellerproduksjoner
-- klassiske historier i en tydelig visuell verden
+- Retellings of Nordic folk tales and legends.
+- Original stories inspired by the same landscapes and traditions.
+- Music and visual storytelling.
+- Illustrated digital editions and videos.
 
-Dette er ikke et museum. Fortellingene skal fortsatt kjennes levende.
+Traditional sources and original work are identified separately. A newly invented tale shouldn't have to pretend it's a centuries-old legend to earn its place.
 
----
+There are trolls here. But they're not running the project management.
 
-[Utforsk Nordic Tales](https://hugbyte.no/nordic/) · [HugByte på YouTube](https://www.youtube.com/@hugbytenorge)
+**[Explore Nordic Tales](https://hugbyte.no/nordic/)** · **[HugByte](https://hugbyte.no/)**

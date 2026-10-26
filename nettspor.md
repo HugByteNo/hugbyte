@@ -1,34 +1,24 @@
-# Nettspor
+# NettSpor
 
-> Et lite spor gjennom det uavhengige nettet.
+> **A trail through the independent web.**
 
-Nettspor er en moderne webring for selvstendige nettsteder.
+**[Visit NettSpor](https://nettspor.no/)**
 
-Ikke et sosialt nettverk. Ikke en ny feed. Bare en enkel måte å gå videre fra ett ekte nettsted til et annet uten at en algoritme står i døra og krever oppmerksomhet.
+NettSpor is a Norwegian webring built around a very old and very good idea: **websites should link to other websites**.
 
-## Ideen
+No endless feed, engagement ranking, or algorithmic treasure hunt. Just one independent corner of the internet leading to another.
 
-Det åpne nettet blir bedre når nettsteder faktisk peker til hverandre.
+## The idea
 
-Nettspor knytter sammen små, uavhengige prosjekter gjennom enkel navigasjon og et minimum av teknisk styr.
+- Discover smaller, human-made sites without depending on a social-media algorithm.
+- Connect participating websites through straightforward navigation.
+- Keep the experience lightweight and the concept understandable.
+- Give independent publishers another way to be found.
 
-## Prinsipper
+## On the workbench
 
-- ingen brukerkontoer
-- ingen profiler
-- ingen endeløs feed
-- ingen rangering etter popularitet
-- enkelt å bli med
-- enkelt å forlate
+NettSpor continues to evolve as its own project. The aim isn't to become a social network in disguise; it's to make a useful path between places worth visiting.
 
-Internett trenger ikke alltid å bli større.
+The independent web doesn't need another walled garden. It needs more doors.
 
-Av og til holder det å lage en liten sti mellom gode steder.
-
-## Status
-
-Nettspor utvikles som et selvstendig HugByte-prosjekt.
-
----
-
-[FM1.no](./fm1.md) · [HugByte.no](https://hugbyte.no/)
+**[Explore the ring](https://nettspor.no/)** · **[HugByte](https://hugbyte.no/)**

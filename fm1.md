@@ -1,30 +1,20 @@
-# FM1.no
+# FM1
 
-> Fem små nettradiokanaler. Ingen programleder som roper over introen.
+> **Five radio channels. Zero presenters shouting over the intro.**
 
-[Besøk FM1.no](https://fm1.no/)
+**[Tune in at FM1.no](https://fm1.no/)**
 
-FM1 er en enkel, statisk nettradioside med fem kanaler laget for ulike arbeidsdager og stemninger.
+FM1 is a small internet-radio project with five channels for different moods and working days. Built for putting something on, getting on with life, and not being asked to join a community to hear the next track.
 
-Prosjektet henter fram noe av følelsen fra radio før alt ble konkurranser, kjendiser og desperate forsøk på å holde deg engasjert hvert tredje sekund.
+## The brief
 
-## På FM1 finner du
+- Five distinct channels.
+- Straightforward playback.
+- A lightweight, static web experience.
+- No account required to listen.
 
-- fem tydelige kanaler
-- enkel avspilling
-- korte tips og forklaringer
-- ingen konto
-- ingen feed
-- ingen algoritme som prøver å oppdra musikksmaken din
+No infinite feed. No algorithm trying to fix your taste in music. Just press play and let the radio do its job.
 
-FM1 er laget som en liten set-and-forget-side. Den skal laste raskt, spille det du valgte og ellers holde kjeft.
+It's intentionally modest — a little piece of the web designed to be used, not endlessly managed.
 
-## Hvorfor
-
-Noen ganger trenger du ikke mer innhold.
-
-Du trenger bare noe brukbart i bakgrunnen mens du arbeider.
-
----
-
-[FM1.no](https://fm1.no/) · [Nettspor](./nettspor.md) · [HugByte.no](https://hugbyte.no/)
+**[FM1.no](https://fm1.no/)** · **[HugByte](https://hugbyte.no/)**

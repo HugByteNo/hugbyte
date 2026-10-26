@@ -1,29 +1,20 @@
 # Obundinn
 
-> Ubundet. Nordisk. Uten bullshit.
+> **Unbound. Nordic. No unnecessary mythology about the marketing department.**
 
-[Besøk Obundinn](https://obundinn.no/)
+**[Explore Obundinn](https://obundinn.no/)**
 
-Obundinn er et selvstendig nordisk musikkprosjekt med røtter i historie, frihet, identitet og motstand mot ferdigtygde sannheter.
+Obundinn is an independent Nordic music project that draws on history, myth, freedom, and identity without pretending the Viking Age had studio monitors.
 
-Musikken beveger seg mellom det gamle og det moderne uten å late som vikingtiden hadde strømuttak og studiomonitors.
+Old themes meet modern production, and the music gets to exist on its own terms.
 
-## Prosjektet
+## Inside the project
 
-- original nordisk musikk
-- engelskspråklige utgivelser
-- historiske og mytiske motiver
-- videoer og visuelle fortellinger
-- digitale Relic Packs for dem som vil eie musikken
+- Original music with Nordic and historical influences.
+- English-language releases and visual storytelling.
+- Mythic imagery without dressing fiction up as a history textbook.
+- The idea of collectible digital **Relic Packs** alongside regular listening.
 
-## Relic Packs
+The project stands on its own, but comes from the same independent workshop as HugByte.
 
-Utvalgte utgivelser finnes som nedlastbare pakker med tapsfri lyd, metadata, dokumentasjon og tilhørende materiale.
-
-[Se Obundinn Relics](https://obundinn.no/relics)
-
-Obundinn står på egne bein, men er utviklet i HugByte-verkstedet.
-
----
-
-[Obundinn.no](https://obundinn.no/) · [Relic Packs](https://obundinn.no/relics)
+**[Obundinn](https://obundinn.no/)** · **[Relic Packs](https://obundinn.no/relics)** · **[HugByte](https://hugbyte.no/)**

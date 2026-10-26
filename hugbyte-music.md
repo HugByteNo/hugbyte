@@ -1,23 +1,20 @@
 # HugByte Music
 
-> Original musikk fra det nordiske verkstedet.
+> **Music from the workshop. No genre committee required.**
 
-[Besøk HugByte Music](https://hugbyte.no/music/)
+**[Explore the music](https://hugbyte.no/music/)**
 
-HugByte Music samler original musikk, musikkvideoer og kreative eksperimenter fra HugByte.
+HugByte Music is where original tracks, videos, and experiments land when they don't belong in a software repository — or any particularly tidy category.
 
-Her er det rom for både mørke nordiske landskap, skrå humor, moderne produksjon og ideer som ikke passer pent inn i en ferdig sjangerboks.
+Electronic sounds, quieter moods, Nordic influences, unexpected detours. The creative process matters more than being easy to file under one genre.
 
-## Uttrykket
+## The approach
 
-- original musikk på norsk og engelsk
-- nordiske og filmatiske stemninger
-- alvor, humor og rare sidespor
-- musikkvideoer og visuelle fortellinger
-- bruk av moderne produksjonsverktøy uten å skjule verkstedet
+- Make original music, not an endless imitation of a trend.
+- Pair sound with visuals when the idea calls for it.
+- Use modern creative tools openly and deliberately.
+- Give each project room to sound like itself.
 
-Musikken er ikke laget for å tilfredsstille en markedsavdeling. Den er laget fordi ideen fortjente å bli en sang.
+Some ideas become tools. Some become songs. Sometimes that's the same kind of problem-solving.
 
----
-
-[HugByte på YouTube](https://www.youtube.com/@hugbytenorge) · [HugByte.no](https://hugbyte.no/)
+**[HugByte Music](https://hugbyte.no/music/)** · **[YouTube](https://www.youtube.com/@hugbytenorge)** · **[HugByte](https://hugbyte.no/)**
